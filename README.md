@@ -38,7 +38,7 @@ This script helps manage the `hosts` file to block IDM-related domains and preve
 2. **Download and Run the IDM Host Manager Script**
 
    **a. Download the Script:**
-   - Download the `IDM_Host_Manager.cmd` script from the [GitHub repository](https://github.com/shotanshu/IDM-Host-Manager/IDM_Host_Manager.cmd).
+   - Download the `IDM_Host_Manager.cmd` script from the [GitHub repository](https://github.com/shotanshu/IDM-Host-Manager).
 
    **b. Run the Script with Administrator Rights:**
    - Right-click on the downloaded `IDM_Host_Manager.cmd` file and select “Run as administrator”.
