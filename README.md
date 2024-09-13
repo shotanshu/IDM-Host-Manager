@@ -19,7 +19,7 @@ This script helps manage the `hosts` file to block IDM-related domains and preve
 ## Prerequisites
 
 - Make sure you have Internet Download Manager (IDM) installed.
-- 
+  
 ## Usage Instructions
 
 1. **Activate IDM with IDM-Activation-Script**
